@@ -155,6 +155,7 @@ public class HolaMundo {
 		 sc.close();
 		 
 	}
+	//Hola loko 
 	private static void ejercicio5() {
 		int N = 10;
 		N+=77;
