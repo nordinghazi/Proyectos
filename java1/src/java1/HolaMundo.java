@@ -6,6 +6,7 @@ public class HolaMundo {
 	
 	
 	private static void iniciacion() {
+		// un cambio nuevo
 
 		int numero = 10;
 		int numero1 = 5;
